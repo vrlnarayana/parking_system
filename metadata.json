@@ -1,0 +1,5 @@
+{
+  "name": "Parking Management",
+  "description": "A streamlined parking reservation system with one-click booking and admin management.",
+  "requestFramePermissions": []
+}
